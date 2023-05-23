@@ -1,6 +1,4 @@
 # lk-assess
-
-
 ## run
 `flask --app loop init-db`
 to initialize database with tables-schema in loop/schema.sql
@@ -9,8 +7,7 @@ to initialize database with tables-schema in loop/schema.sql
 `flask --app loop run --debug`
 to run app in debug mode
 
-<br><br>
-
+<br>
 ## layout
 <pre>
 lk-assess
